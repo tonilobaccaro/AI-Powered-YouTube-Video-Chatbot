@@ -12,3 +12,6 @@ Dependencies:
 Setup Steps: 
 1. Replace OpenAI API Key
 2. Run: streamlit run app.py in a command prompt
+
+Demo Video
+https://drive.google.com/file/d/1o_6SF6RRtIudoyFA-zVFLFG7BTeL-V87/view?usp=sharing
